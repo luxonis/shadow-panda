@@ -8,7 +8,7 @@
   "homepage": "https://shadow-panda.dev",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kumaaa-inc/shadow-panda.git"
+    "url": "git+https://github.com/luxonis/shadow-panda.git"
   },
   "bugs": {
     "url": "https://github.com/kumaaa-inc/shadow-panda/issues"
@@ -28,13 +28,13 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@pandacss/preset-panda": "0.17.1"
+    "@pandacss/preset-panda": "0.53.0"
   },
   "devDependencies": {
-    "@pandacss/dev": "0.17.1",
-    "@pandacss/types": "0.17.1"
+    "@pandacss/dev": "0.53.0",
+    "@pandacss/types": "0.53.0"
   },
   "peerDependencies": {
-    "@pandacss/dev": "0.17.1"
+    "@pandacss/dev": "0.53.0"
   }
 }
