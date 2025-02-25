@@ -1,5 +1,12 @@
 # @shadow-panda/style-context
 
+
+## 0.7.2
+
+### Patch Changes
+
+- f4022af: Updated PandaCSS
+
 ## 0.7.1
 
 ### Patch Changes
