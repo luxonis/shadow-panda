@@ -16,7 +16,7 @@ export default defineConfig({
   },
 
   // Presets
-  presets: ['@shadow-panda/preset'],
+  presets: ['@luxonis-public/shadow-panda-preset'],
 
   // Where to look for your css declarations
   include: ['./src/**/*.{js,jsx,ts,tsx,mdx}', './theme.config.tsx'],

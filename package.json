@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "prepare": "husky install && pnpm build-fast",
-    "packages:preset": "pnpm -F @shadow-panda/preset",
+    "packages:preset": "pnpm -F @luxonis-public/shadow-panda-preset",
     "apps:docs": "pnpm -F @shadow-panda/docs",
     "dev:docs": "pnpm apps:docs dev",
     "dev": "pnpm -r --parallel dev",
